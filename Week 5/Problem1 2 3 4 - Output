@@ -1,0 +1,11 @@
+Enter the base:
+2
+Enter the exponent:
+2
+Result of power: 4
+Enter a non-negative integer for factorial:
+2
+Factorial: 2
+Enter a comma-separated list of integers:
+1,2,3,4,5
+Squared values: [1,4,9,16,25]

@@ -1,0 +1,5 @@
+#python Week\ 2/b.py > b_output.txt
+
+Executing move c from table3 to table
+Executing move b from table2 to c
+Executing move a from table to b

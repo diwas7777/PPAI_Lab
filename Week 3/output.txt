@@ -1,0 +1,5 @@
+# python Week\ 3/simple_expert_system.py > output.txt
+
+You may have the flu.
+You may have a migraine.
+Symptoms not recognized. Please consult a doctor.
